@@ -27,6 +27,7 @@
 #include <QKeyEvent>
 #include <QAction>
 #include <QLocale>
+#include <QRegularExpression>
 #include <cstring>
 #include <cstdlib>
 #include <cstdio>
